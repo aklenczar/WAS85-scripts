@@ -1,0 +1,14 @@
+#custom properties
+com.ibm = true
+db = true
+secman = false
+
+#jvm 
+initialHeap = 128
+maximumHeap = 512 
+
+#server settings
+cellName = DM_A_BATCH_CSM
+nodeName = lx11gk
+serverName = ELA_Server
+clusterName = ELA_Cluster
